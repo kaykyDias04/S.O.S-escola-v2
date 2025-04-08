@@ -85,4 +85,4 @@ Plataforma web segura para denúncias de bullying e violência escolar, combinan
 
 🔗 *Acesse o Protótipo Completo*
 
-📁 *Download* [Assets_Figma.zip](#)
+📁 *Download* [https://www.figma.com/design/LttrqgGPeTN1Wa9hu6Iidk/Untitled?node-id=0-1&t=axvUmixithuayzTV-1](#)
