@@ -74,7 +74,7 @@ Acompanhe o andamento pelo nosso quadro no Trello:
 | HU-10  | Controle de compartilhamento de dados | ✔️ Checkbox para autorização de uso dos dados<br>✔️ Explicação clara sobre como os dados serão usados<br>✔️ Opção de revogar consentimento posteriormente |
 
 > 🔐 **Estas HUs estão integradas para garantir segurança, suporte e privacidade desde o primeiro acesso.**
-
+![h1,h7,h10](imagens/storybord1e2e1)
 ---
 
 ### 📊 HU-08: Histórico de Denúncias (Gestor)
