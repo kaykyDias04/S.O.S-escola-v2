@@ -66,20 +66,21 @@ Acompanhe o andamento pelo nosso quadro no Trello:
 
 ### HU - 01 | Denúncia Anônima
 
-> *"Como aluno, quero poder fazer uma denúncia de forma anônima para me sentir seguro ao relatar casos de violência."*
-
+> *""Como aluno, quero poder fazer uma denúncia de forma anônima para me sentir seguro ao relatar casos de violência.""*
+Somente com o botão de identificação o usuário pode escolher se quer ser identificado ou não.
 ---
 
 ### HU - 02 | Denúncia Identificada
 
 > *"Como aluno, quero ter a opção de me identificar na denúncia para permitir uma comunicação direta com os responsáveis pelo acompanhamento."*
 
+Somente com o botão de identificação o usuário pode escolher se quer ser identificado ou não.
 
 ---
 
 ### HU - 10 | Consentimento para Compartilhamento de Dados
 
-> *”Como denunciante, quero poder autorizar ou não o compartilhamento dos meus dados para garantir minha privacidade.”*
+> *”Como denunciante, quero poder autorizar ou não o compartilhamento dos meus dados para garantir minha privacidade”*
 
 No botão o usuário decide se deseja autorizar ou não o compartilhamento dos dados.
 
