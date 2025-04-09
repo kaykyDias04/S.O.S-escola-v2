@@ -40,11 +40,6 @@ Com base nessas histórias, desenvolvemos **protótipos por meio de esboços e s
 
 ---
 
-## 👥 Equipe de Desenvolvimento
-
-## 👥 Equipe de Desenvolvimento
-
-Desenvolvido por:
 
 ## 👥 Equipe de Desenvolvimento
 
