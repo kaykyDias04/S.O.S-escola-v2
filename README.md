@@ -63,7 +63,7 @@ Plataforma web segura para denúncias de bullying e violência escolar, combinan
 
 ## 👣 Jornada de Usuário
 
-![Jornada de Usuário](./)
+![Jornada de Usuário](imagens/Jornada_de_Usuário.png)
 
 
 ## 👥 Personas
