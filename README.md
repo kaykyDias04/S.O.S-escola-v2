@@ -67,6 +67,7 @@ Acompanhe o andamento pelo nosso quadro no Trello:
 ### HU - 01 | Denúncia Anônima
 
 > *""Como aluno, quero poder fazer uma denúncia de forma anônima para me sentir seguro ao relatar casos de violência.""*
+
 Somente com o botão de identificação o usuário pode escolher se quer ser identificado ou não.
 ---
 
