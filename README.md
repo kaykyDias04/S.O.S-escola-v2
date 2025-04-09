@@ -66,12 +66,16 @@ Acompanhe o andamento pelo nosso quadro no Trello:
 ---
 
 ### 🛡️ Bloco 1: Denúncia + Apoio + Privacidade (HUs 01, 07 e 10)
+# HU - 01 | Denúncia Anônima
+”Como aluno, quero poder fazer uma denúncia de forma anônima para me sentir seguro ao relatar casos de violência.”
 
-| Código | Funcionalidade                   | Critérios de Aceitação |
-|--------|----------------------------------|-------------------------|
-| HU-01  | Denúncia anônima                | ✔️ Formulário sem campos obrigatórios de identificação<br>✔️ IP e metadados não armazenados<br>✔️ Confirmação visual de envio bem-sucedido |
-| HU-07  | Canal com psicólogos            | ✔️ Chat integrado com profissionais<br>✔️ Opção de agendamento de sessão<br>✔️ Recursos de autoajuda (PDFs, vídeos) |
-| HU-10  | Controle de compartilhamento de dados | ✔️ Checkbox para autorização de uso dos dados<br>✔️ Explicação clara sobre como os dados serão usados<br>✔️ Opção de revogar consentimento posteriormente |
+# HU - 02 | Denúncia Identificada
+”Como aluno, quero ter a opção de me identificar na denúncia para permitir uma comunicação direta com os responsáveis pelo acompanhamento.”
+
+Somente com o botão de identificação o usuário pode escolher se quer ser identificado ou não.
+
+# HU - 10 | Consentimento para Compartilhamento de Dados
+”Como denunciante, quero poder autorizar ou não o compartilhamento dos meus dados para garantir minha privacidade.”
 
 > 🔐 **Estas HUs estão integradas para garantir segurança, suporte e privacidade desde o primeiro acesso.**
 ![h1,h7,h10](imagens/storybord1e2e1)
@@ -79,10 +83,8 @@ Acompanhe o andamento pelo nosso quadro no Trello:
 
 ### 📊 HU-08: Histórico de Denúncias (Gestor)
 
-| Código | Funcionalidade        | Critérios de Aceitação |
-|--------|------------------------|-------------------------|
-| HU-08  | Acesso ao histórico    | ✔️ Filtros por data, tipo de violência e status<br>✔️ Visualização de padrões (heatmap de ocorrências)<br>✔️ Exportação em CSV/PDF para relatórios |
-
+## HU - 08 | Histórico Pessoal de Denúncias
+”Como gestor, quero acessar o histórico de denúncias para analisar padrões e agir preventivamente.”
 🔹 **Objetivo:** Permitir ações preventivas baseadas em dados.
 
 ![h8](imagens/Story8.jpg)
@@ -90,10 +92,10 @@ Acompanhe o andamento pelo nosso quadro no Trello:
 
 ### 📨 HU-03: Protocolo de Acompanhamento
 
-| Código | Funcionalidade           | Critérios de Aceitação |
-|--------|--------------------------|-------------------------|
-| HU-03  | Geração de protocolo     | ✔️ Número único com QR code para consulta<br>✔️ Atualizações em tempo real (ex.: "Em análise")<br>✔️ Notificação por e-mail/SMS quando houver mudanças |
-## 📖 Histórias de Usuário (HUs)
+# HU - 03 | Protocolo de Acompanhamento
+”Como denunciante, quero receber um protocolo para acompanhar o andamento da minha denúncia e saber das providências tomadas.”
+
+Nessa aba o usuário vai poder acompanhar suas denúncias para ver se elas já foram resolvidas ou não.
 ![h3](imagens/Story3.jpg)
 
 
