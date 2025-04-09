@@ -1,6 +1,6 @@
 # Documentação do projeto
 
-### 📢 S.O.S ESCOLAR - Sistema de Denúncias Escolares com IA
+### 📢 S.O.S escola - Sistema de Denúncias Escolares com IA
 
 Através de um projeto inovador com foco em segurança e bem-estar estudantil, estamos desenvolvendo a **S.O.S Escolar**, uma plataforma web voltada ao combate ao bullying e à violência escolar.  
 
