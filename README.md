@@ -78,6 +78,7 @@ Somente com o botão de identificação o usuário pode escolher se quer ser ide
 
  No botão o usuário decide se deseja autorizar ou não o compartilhamento dos dados.
 ---
+
 ![s1](imagens/storybord1e2e1)
 🔗 **[Acesse o prototipo](https://www.figma.com/design/LttrqgGPeTN1Wa9hu6Iidk/S.O.S-Escola?node-id=4-154&t=yFIM6FH4iPkxYPMQ-0)**  
 
