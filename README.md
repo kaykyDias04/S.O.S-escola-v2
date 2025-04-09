@@ -61,6 +61,9 @@ Plataforma web segura para denúncias de bullying e violência escolar, combinan
 | 10. Redução de Desigualdades | Acesso igualitário à denúncia |
 | 16. Paz e Justiça | Transparência no tratamento de casos |
 
+## 👣 Jornada de Usuário
+
+![Jornada de Usuário](./)
 
 
 ## 👥 Personas
