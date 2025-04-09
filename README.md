@@ -94,6 +94,8 @@ Acompanhe o andamento pelo nosso quadro no Trello:
 |--------|--------------------------|-------------------------|
 | HU-03  | Geração de protocolo     | ✔️ Número único com QR code para consulta<br>✔️ Atualizações em tempo real (ex.: "Em análise")<br>✔️ Notificação por e-mail/SMS quando houver mudanças |
 ## 📖 Histórias de Usuário (HUs)
+![h8](imagens/Story3.jp)
+
 
 --- 
 ## 👥 Personas
