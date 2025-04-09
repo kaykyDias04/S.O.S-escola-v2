@@ -78,6 +78,7 @@ Somente com o botão de identificação o usuário pode escolher se quer ser ide
 
  No botão o usuário decide se deseja autorizar ou não o compartilhamento dos dados.
 ---
+![s1](imagens/storyborf1e2e1)
 
 ### 📊 HU-08: Histórico de Denúncias (Gestor)
 
