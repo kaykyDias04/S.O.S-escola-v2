@@ -61,6 +61,14 @@ Plataforma web segura para denúncias de bullying e violência escolar, combinan
 | 10. Redução de Desigualdades | Acesso igualitário à denúncia |
 | 16. Paz e Justiça | Transparência no tratamento de casos |
 
+# 📖 Histórias de Usuário
+
+| Código | Funcionalidade                         |
+|--------|----------------------------------------|
+| HU-01  | Denúncia anônima                       |
+| HU-02  | Canal com psicólogos                   |
+| HU-10  | Controle de compartilhamento de dados  |
+
 ## 👣 Jornada de Usuário
 
 ![Jornada de Usuário](imagens/Jornada_de_Usuário.png)
