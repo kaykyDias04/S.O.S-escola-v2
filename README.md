@@ -87,6 +87,7 @@ Plataforma web segura para denúncias de bullying e violência escolar, combinan
 - Dashboard de Gestão (métricas e priorização)
 
 🔗 *Acesse o Protótipo Completo*
+
 ![Figma](imagens/Captura de tela 2025-04-08 211257.png)
 
 📁 *Clique aqui para vê* [https://www.figma.com/design/LttrqgGPeTN1Wa9hu6Iidk/Untitled?node-id=0-1&t=axvUmixithuayzTV-1](#)
