@@ -149,7 +149,7 @@ Nessa aba, o usuário poderá acompanhar suas denúncias para ver se já foram r
 
 ## 🎥 Demonstração do Protótipo
 
-[![Assista no Drive](https://img.icons8.com/color/48/google-drive--v1.png)](https://drive.google.com/file/d/1OaMrHyjbxgaxI05TlfGhUkSIQZyMPNBp/view?usp=sharing)
+![Assista o vídeo](https://youtu.be/9jkoFB42xww?feature=shared)
 
 ---
 
