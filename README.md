@@ -1,101 +1,59 @@
-# 📢 S.O.S ESCOLAR - Sistema de Denúncias Escolares com IA
-**Banner do Projeto** *(Adicione sua imagem aqui)*
+# Documentação do projeto
 
-## 🌍 Contexto
-Plataforma web segura para denúncias de bullying e violência escolar, combinando anonimato, triagem por IA e suporte emocional. Alinhado com 5 ODS da ONU para promover ambientes educacionais mais saudáveis e inclusivos.
+### 📢 S.O.S ESCOLAR - Sistema de Denúncias Escolares com IA
 
-## 🔍 Sumário
-- **Problema**
-- **Solução**
-- **Objetivos**
-- **Metodologia**
-- **ODS Relacionados**
-- **Histórias de Usuário**
-- **Personas** *(com anexos)*
-- **Mapa de Empatia** *(com anexos)*
-- **Protótipos** *(Figma)*
-- **Tecnologias**
+Através de um projeto inovador com foco em segurança e bem-estar estudantil, estamos desenvolvendo a **S.O.S Escolar**, uma plataforma web voltada ao combate ao bullying e à violência escolar.  
 
-## ❌ Problema
+A solução permite **denúncias anônimas ou identificadas**, conta com **IA para triagem de urgência** e oferece **suporte emocional automático e humano**.  
 
-### Dados Alarmantes:
-- 70% dos alunos não denunciam bullying por medo de represálias (Fonte: Pesquisa Nacional de Saúde Escolar).
-- Escolas carecem de sistemas confidenciais e ágeis para gerenciar ocorrências.
+Além disso, disponibiliza um **dashboard com métricas** para gestores escolares, promovendo ações rápidas e baseadas em dados.  
 
-### Impacto:
-- Ambiente escolar tóxico
-- Queda no rendimento acadêmico
-- Problemas psicológicos prolongados
+Alinhado aos **Objetivos de Desenvolvimento Sustentável (ODS)**, o projeto visa construir ambientes escolares mais saudáveis, inclusivos e acolhedores.  
 
-## ✅ Solução
-**S.O.S Escolar** oferece:
-- 📌 **Denúncias anônimas/identificadas**
-- 🤖 **IA para priorizar casos urgentes** (ex.: automutilação, agressão física)
-- 📄 **Protocolos de acompanhamento com prazos**
-- 💬 **Mensagens de apoio automáticas e canal com psicólogos**
-- 📊 **Dashboard para gestores com métricas visuais**
+Desenvolvido com **React**, **Spring Boot**, **Python** e **PostgreSQL com criptografia**.
 
-*Fluxo da Plataforma* *(Adicione imagem do Figma/Jira)*
+---
 
-## 🎯 Objetivos
+## 🚀 Tecnologias Utilizadas
 
-| Geral  | Específicos |
-|--------|-------------|
-| Criar um canal seguro contra violência escolar | ✔️ Anonimato opcional<br>✔️ Triagem por IA<br>✔️ Acompanhamento com protocolo<br>✔️ Suporte emocional integrado |
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+</div>
 
-## 🔧 Metodologia
-**Desenvolvimento Ágil (SCRUM)**
+---
 
-### Stack Principal:
-- **Frontend**: React.js + TailwindCSS
-- **Backend**: Spring boot + python (para modelos de IA)
-- **Banco de Dados**: PostgreSQL (criptografia de dados)
-- **IA**: NLP para análise de texto (classificação de urgência)
+## 📌 Etapas do Projeto
 
-## 🌱 ODS Relacionados
-| ODS | Contribuição do Projeto |
-|-----|-------------------------|
-| 3. Saúde e Bem-Estar | Suporte psicológico aos denunciantes |
-| 4. Educação Qualidade | Ambiente escolar seguro |
-| 5. Igualdade de Gênero | Combate a violências discriminatórias |
-| 10. Redução de Desigualdades | Acesso igualitário à denúncia |
-| 16. Paz e Justiça | Transparência no tratamento de casos |
+Elaboramos um quadro no Trello, acessível mais abaixo nesta documentação, onde estruturamos **10 histórias de usuário** para nossa aplicação web.  
 
-# 📖 Histórias de Usuário
+Com base nessas histórias, desenvolvemos **protótipos por meio de esboços e storyboards**, que foram apresentados em formato de **screencasts**.
 
-| Código | Funcionalidade                         |
-|--------|----------------------------------------|
-| HU-01  | Denúncia anônima                       |
-| HU-02  | Canal com psicólogos                   |
-| HU-10  | Controle de compartilhamento de dados  |
+---
 
-## 👣 Jornada de Usuário
+## 👥 Equipe de Desenvolvimento
 
-![Jornada de Usuário](imagens/Jornada_de_Usuário.png)
+## 👥 Equipe de Desenvolvimento
+
+Desenvolvido por:
+
+## 👥 Equipe de Desenvolvimento
+
+| Integrante | Perfil |
+|------------|--------|
+| <img src="https://github.com/jleandromorais.png" width="80" height="80"> | **Jose Leandro De Morais Alvez Luz**<br>[@jleandromorais](https://github.com/jleandromorais) |
+| <img src="https://github.com/06gabrielsouza.png" width="80" height="80"> | **Gabriel Souza Santos**<br>[@06gabrielsouza](https://github.com/06gabrielsouza) |
+| <img src="https://github.com/kaykyDias04.png" width="80" height="80"> | **Kayky Dias Oliveira**<br>[@kaykyDias04](https://github.com/kaykyDias04) |
+| <img src="https://github.com/LeviMoraesMoura.png" width="80" height="80"> | **Levi Moraes Moura Andrade**<br>[@LeviMoraesMoura](https://github.com/LeviMoraesMoura) |
+| <img src="https://github.com/Enzo-Antuna.png" width="80" height="80"> | **Enzo Antuna Ferreira**<br>[@Enzo-Antuna](https://github.com/Enzo-Antuna) |
 
 
-## 👥 Personas
-
-
-
-📁 *Download* [Personas.zip](#) *(Inclui perfis completos em PDF/PPT)*
-
-*Persona Aluno* *(Imagem do Figma)*
-
-## 🗺️ Mapa de Empatia
-![MapaEmpatia](imagens/MapaDeEmpatia2.png)
-
-📁 *Download* [Mapa_de_Empatia.zip](#) *(Inclui entrevistas e pesquisas)*
-
-## 🎨 Protótipos (Figma)
-
-**Telas Principais:**
-- Login Seguro (Gestores/Alunos)
-- Formulário de Denúncia (com opção de anonimato)
-- Dashboard de Gestão (métricas e priorização)
-
-🔗 *Acesse o Protótipo Completo*
-
-![Figma](imagens/CapturaDeTela.png)
-
-📁 *Clique aqui para vê* [https://www.figma.com/design/LttrqgGPeTN1Wa9hu6Iidk/Untitled?node-id=0-1&t=axvUmixithuayzTV-1](#)
