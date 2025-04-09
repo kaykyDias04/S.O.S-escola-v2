@@ -51,4 +51,14 @@ Com base nessas histórias, desenvolvemos **protótipos por meio de esboços e s
 | <img src="https://github.com/LeviMoraesMoura.png" width="80" height="80"> | **Levi Moraes Moura Andrade**<br>[@LeviMoraesMoura](https://github.com/LeviMoraesMoura) |
 | <img src="https://github.com/Enzo-Antuna.png" width="80" height="80"> | **Enzo Antuna Ferreira**<br>[@Enzo-Antuna](https://github.com/Enzo-Antuna) |
 
+## 📌 Status do Projeto
+
+Acompanhe o andamento pelo nosso quadro no Trello:
+
+🔗 [Ver Trello](https://trello.com/b/rqZ4UClp/sos-escola)
+
+### 🖼️ Quadro Atual:
+
+![Quadro do Trello](https://user-images.githubusercontent.com/EXEMPLO.png)
+
 
