@@ -95,7 +95,43 @@ Acompanhe o andamento pelo nosso quadro no Trello:
 | HU-03  | Geração de protocolo     | ✔️ Número único com QR code para consulta<br>✔️ Atualizações em tempo real (ex.: "Em análise")<br>✔️ Notificação por e-mail/SMS quando houver mudanças |
 ## 📖 Histórias de Usuário (HUs)
 
+--- 
+## 👥 Personas
+
+### 1. Aluno Vítima (Ana, 14 anos)
+
+- **Medo:** Retaliação ao denunciar  
+- **Necessidade:** Canal confidencial e rápido
+
+📁 **[Download Personas.zip](caminho/para/Personas.zip)** _(Inclui perfis completos em PDF/PPT)_
+
+🖼️ **Persona Aluno** (Imagem do Figma)
+
 ---
+
+## 🗺️ Mapa de Empatia
+
+| O que sente?                        | O que precisa?                          |
+|------------------------------------|-----------------------------------------|
+| Ansiedade, medo de não ser levado a sério | Garantia de ação rápida e sigilo         |
+
+📁 **[Download Mapa_de_Empatia.zip](caminho/para/Mapa_de_Empatia.zip)** _(Inclui entrevistas e pesquisas)_
+🖼️ **Persona Aluno**
+
+
+---
+
+## 🎨 Protótipos (Figma)
+
+### Telas Principais:
+
+- **Login Seguro** (Gestores/Alunos)
+- **Formulário de Denúncia** (com opção de anonimato)
+- **Dashboard de Gestão** (métricas e priorização)
+
+🔗 **[Acesse o Protótipo Completo](link/do/prototipo/aqui)**  
+📁 **[Download Assets_Figma.zip](caminho/para/Assets_Figma.zip)**
+
 
 
 
