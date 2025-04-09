@@ -85,7 +85,7 @@ Acompanhe o andamento pelo nosso quadro no Trello:
 
 🔹 **Objetivo:** Permitir ações preventivas baseadas em dados.
 
-![h8] (imagens/Story8.jpg)
+![h8](imagens/Story8.jpg)
 ---
 
 ### 📨 HU-03: Protocolo de Acompanhamento
