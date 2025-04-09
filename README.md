@@ -76,15 +76,15 @@ Somente com o botão de identificação o usuário pode escolher se quer ser ide
 ### HU - 10 | Consentimento para Compartilhamento de Dados
 ”Como denunciante, quero poder autorizar ou não o compartilhamento dos meus dados para garantir minha privacidade.”
 
-> 🔐 **Estas HUs estão integradas para garantir segurança, suporte e privacidade desde o primeiro acesso.**
-![h1,h7,h10](imagens/storybord1e2e1)
+ No botão o usuário decide se deseja autorizar ou não o compartilhamento dos dados.
 ---
 
 ### 📊 HU-08: Histórico de Denúncias (Gestor)
 
 ### HU - 08 | Histórico Pessoal de Denúncias
 ”Como gestor, quero acessar o histórico de denúncias para analisar padrões e agir preventivamente.”
-🔹 **Objetivo:** Permitir ações preventivas baseadas em dados.
+
+O usuário consegue ver o relatório e estatísticas de cada denúncia.
 
 ![h8](imagens/Story8.jpg)
 ---
@@ -106,10 +106,12 @@ Nessa aba o usuário vai poder acompanhar suas denúncias para ver se elas já f
 ### Telas Principais:
 
 - **Login Seguro** (Gestores/Alunos)
+- coloca o link + print
 - **Formulário de Denúncia** (com opção de anonimato)
+- coloca o link + print
 - **Dashboard de Gestão** (métricas e priorização)
-
-🔗 **[Acesse o Protótipo Completo](link/do/prototipo/aqui)**  
+coloca o link + print
+🔗 **[Acesse o Protótipo Completo](https://www.figma.com/design/LttrqgGPeTN1Wa9hu6Iidk/S.O.S-Escola?node-id=0-1&p=f&t=JDaU17RZv2HatMNh-0)**  
 📁 **[Download Assets_Figma.zip](caminho/para/Assets_Figma.zip)**
 
 
