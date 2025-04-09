@@ -98,31 +98,7 @@ Acompanhe o andamento pelo nosso quadro no Trello:
 
 
 --- 
-## 👥 Personas
 
-### 1. Aluno Vítima (Ana, 14 anos)
-
-- **Medo:** Retaliação ao denunciar  
-- **Necessidade:** Canal confidencial e rápido
-
-📁 **[Download Personas.zip](caminho/para/Personas.zip)** _(Inclui perfis completos em PDF/PPT)_
-
-🖼️ **Persona Aluno** (Imagem do Figma)
-
----
-
-## 🗺️ Mapa de Empatia
-
-| O que sente?                        | O que precisa?                          |
-|------------------------------------|-----------------------------------------|
-| Ansiedade, medo de não ser levado a sério | Garantia de ação rápida e sigilo         |
-
-📁 **[Download Mapa_de_Empatia.zip](caminho/para/Mapa_de_Empatia.zip)** _(Inclui entrevistas e pesquisas)_
-🖼️ **Mapa de empatia**
-![img](imagens/MAPADEEMPATIA10.png)
-
-
----
 
 ## 🎨 Protótipos (Figma)
 
