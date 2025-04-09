@@ -65,7 +65,6 @@ Acompanhe o andamento pelo nosso quadro no Trello:
 
 ---
 
-### 🛡️ Bloco 1: Denúncia + Apoio + Privacidade (HUs 01, 07 e 10)
 ### HU - 01 | Denúncia Anônima
 ”Como aluno, quero poder fazer uma denúncia de forma anônima para me sentir seguro ao relatar casos de violência.”
 
