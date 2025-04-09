@@ -74,7 +74,6 @@ Acompanhe o andamento pelo nosso quadro no Trello:
 
 > *"Como aluno, quero ter a opção de me identificar na denúncia para permitir uma comunicação direta com os responsáveis pelo acompanhamento."*
 
-Obs: Somente com o botão de identificação o usuário pode escolher se quer ser identificado ou não.
 
 ---
 
@@ -82,7 +81,6 @@ Obs: Somente com o botão de identificação o usuário pode escolher se quer se
 
 > *"Como denunciante, quero poder autorizar ou não o compartilhamento dos meus dados para garantir minha privacidade."*
 
-Obs: No botão, o usuário decide se deseja autorizar ou não o compartilhamento dos dados.
 
 ---
 
@@ -91,7 +89,7 @@ Obs: No botão, o usuário decide se deseja autorizar ou não o compartilhamento
 
 ---
 
-### HU - 08 | Histórico de Denúncias (Gestor)
+### HU - 08 | Histórico de Denúncias
 
 > *"Como gestor, quero acessar o histórico de denúncias para analisar padrões e agir preventivamente."*
 
