@@ -112,15 +112,16 @@ Nessa aba o usuário vai poder acompanhar suas denúncias para ver se elas já f
 
 ### Telas Principais:
 
-- **Login Seguro** (Gestores/Alunos)
+- ###Login Seguro (Gestores/Alunos)
+  
 -![login](imagens/login)
 - 🔗 **[Acesse o Protótipo]( https://www.figma.com/design/LttrqgGPeTN1Wa9hu6Iidk/S.O.S-Escola?node-id=4-212&t=ZTagklqe0qmiMavP-0)**
   )
-- **Formulário de Denúncia** (com opção de anonimato)
+- ###Formulário de Denúncia (com opção de anonimato)
 - ![form](imagens/form)
 - 🔗 **[Acesse o Protótipo ](https://www.figma.com/design/LttrqgGPeTN1Wa9hu6Iidk/S.O.S-Escola?node-id=4-154&t=ZTagklqe0qmiMavP-0)**  
 
-- **Dashboard de Gestão** (métricas e priorização)
+- ###Dashboard de Gestão (métricas e priorização)
 - ![dash](imagens/dash)
 -  🔗 **[Acesse o Protótipo](https://www.figma.com/design/LttrqgGPeTN1Wa9hu6Iidk/S.O.S-Escola?node-id=15-828&t=ZTagklqe0qmiMavP-0)**  
 
