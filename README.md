@@ -149,7 +149,7 @@ Nessa aba, o usuário poderá acompanhar suas denúncias para ver se já foram r
 
 ## 🎥 Demonstração do Protótipo
 
-![Assista o vídeo](https://youtu.be/9jkoFB42xww?feature=shared)
+![Assita o vídeo](https://www.youtube.com/watch?v=9jkoFB42xww)
 
 ---
 
