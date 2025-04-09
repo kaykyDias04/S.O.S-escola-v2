@@ -149,15 +149,7 @@ Nessa aba, o usuário poderá acompanhar suas denúncias para ver se já foram r
 
 ## 🎥 Demonstração do Protótipo
 
-<iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/9jkoFB42xww" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    allowfullscreen>
-</iframe>
-
-
+[![Assista no YouTube](https://img.youtube.com/vi/9jkoFB42xww/hqdefault.jpg)](https://www.youtube.com/watch?v=9jkoFB42xww)
 ---
 
 
