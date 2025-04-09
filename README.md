@@ -84,7 +84,8 @@ Acompanhe o andamento pelo nosso quadro no Trello:
 | HU-08  | Acesso ao histórico    | ✔️ Filtros por data, tipo de violência e status<br>✔️ Visualização de padrões (heatmap de ocorrências)<br>✔️ Exportação em CSV/PDF para relatórios |
 
 🔹 **Objetivo:** Permitir ações preventivas baseadas em dados.
-![h8](imagens/story8)
+
+![h8] (imagens/Story8.jpg)
 ---
 
 ### 📨 HU-03: Protocolo de Acompanhamento
