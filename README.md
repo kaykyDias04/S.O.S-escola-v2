@@ -111,7 +111,7 @@ Nessa aba o usuário vai poder acompanhar suas denúncias para ver se elas já f
 - coloca o link + print
 - **Dashboard de Gestão** (métricas e priorização)
 coloca o link + print
-🔗 **[Acesse o Protótipo Completo](https://www.figma.com/design/LttrqgGPeTN1Wa9hu6Iidk/S.O.S-Escola?node-id=0-1&p=f&t=JDaU17RZv2HatMNh-0)**  
+🔗 **[Acesse o Protótipo Completo](https://www.figma.com/design/LttrqgGPeTN1Wa9hu6Iidk/S.O.S-Escola?node-id=0-1&p=f)**  
 📁 **[Download Assets_Figma.zip](caminho/para/Assets_Figma.zip)**
 
 
