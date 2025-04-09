@@ -61,7 +61,7 @@ Acompanhe o andamento pelo nosso quadro no Trello:
 
 ![Quadro do Trello](imagens/trello)
 
-## 📖 Histórias de Usuário (HUs)
+## 📖 Sketches e storyboards
 
 ---
 
