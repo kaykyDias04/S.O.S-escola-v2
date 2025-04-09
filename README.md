@@ -75,7 +75,7 @@ Plataforma web segura para denúncias de bullying e violência escolar, combinan
 *Persona Aluno* *(Imagem do Figma)*
 
 ## 🗺️ Mapa de Empatia
-
+![MapaEmpatia](imagens/MapaDeEmpatia2.png)
 
 📁 *Download* [Mapa_de_Empatia.zip](#) *(Inclui entrevistas e pesquisas)*
 
