@@ -79,8 +79,9 @@ Acompanhe o andamento pelo nosso quadro no Trello:
 
 ### HU - 10 | Consentimento para Compartilhamento de Dados
 
-> *"Como denunciante, quero poder autorizar ou não o compartilhamento dos meus dados para garantir minha privacidade."*
+> *”Como denunciante, quero poder autorizar ou não o compartilhamento dos meus dados para garantir minha privacidade.”*
 
+No botão o usuário decide se deseja autorizar ou não o compartilhamento dos dados.
 
 ---
 
