@@ -59,6 +59,6 @@ Acompanhe o andamento pelo nosso quadro no Trello:
 
 ### 🖼️ Quadro Atual:
 
-![Quadro do Trello](imagens/trello.png)
+![Quadro do Trello](imagens/trello)
 
 
