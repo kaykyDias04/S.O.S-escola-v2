@@ -61,5 +61,42 @@ Acompanhe o andamento pelo nosso quadro no Trello:
 
 ![Quadro do Trello](imagens/trello)
 
+## 📖 Histórias de Usuário (HUs)
+
+---
+
+### 🛡️ Bloco 1: Denúncia + Apoio + Privacidade (HUs 01, 07 e 10)
+
+| Código | Funcionalidade                   | Critérios de Aceitação |
+|--------|----------------------------------|-------------------------|
+| HU-01  | Denúncia anônima                | ✔️ Formulário sem campos obrigatórios de identificação<br>✔️ IP e metadados não armazenados<br>✔️ Confirmação visual de envio bem-sucedido |
+| HU-07  | Canal com psicólogos            | ✔️ Chat integrado com profissionais<br>✔️ Opção de agendamento de sessão<br>✔️ Recursos de autoajuda (PDFs, vídeos) |
+| HU-10  | Controle de compartilhamento de dados | ✔️ Checkbox para autorização de uso dos dados<br>✔️ Explicação clara sobre como os dados serão usados<br>✔️ Opção de revogar consentimento posteriormente |
+
+> 🔐 **Estas HUs estão integradas para garantir segurança, suporte e privacidade desde o primeiro acesso.**
+
+---
+
+### 📊 HU-08: Histórico de Denúncias (Gestor)
+
+| Código | Funcionalidade        | Critérios de Aceitação |
+|--------|------------------------|-------------------------|
+| HU-08  | Acesso ao histórico    | ✔️ Filtros por data, tipo de violência e status<br>✔️ Visualização de padrões (heatmap de ocorrências)<br>✔️ Exportação em CSV/PDF para relatórios |
+
+🔹 **Objetivo:** Permitir ações preventivas baseadas em dados.
+
+---
+
+### 📨 HU-03: Protocolo de Acompanhamento
+
+| Código | Funcionalidade           | Critérios de Aceitação |
+|--------|--------------------------|-------------------------|
+| HU-03  | Geração de protocolo     | ✔️ Número único com QR code para consulta<br>✔️ Atualizações em tempo real (ex.: "Em análise")<br>✔️ Notificação por e-mail/SMS quando houver mudanças |
+## 📖 Histórias de Usuário (HUs)
+
+---
+
+
+
 
 ## 🎥 Demonstração do Protótipo
