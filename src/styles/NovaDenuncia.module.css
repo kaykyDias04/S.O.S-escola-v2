@@ -1,0 +1,28 @@
+.verticalContainer {
+    display: flex;
+    flex-direction: column; /* Empilha os itens verticalmente */
+    min-height: 100vh;
+}
+
+/* Opcional: ajuste o espaçamento */
+.verticalContainer > * {
+    margin-bottom: 20px; /* Espaço entre os componentes */
+}
+.appContainer {
+    display: flex;
+    min-height: 100vh;
+  }
+  
+  .sidebar {
+    width: 300px; /* Largura fixa para o sidebar */
+    background: #f8f9fa;
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+  }
+  
+  .mainContent {
+    flex: 1;
+    padding: 40px;
+    background: #f5f5f5;
+    overflow-y: auto; /* Permite rolagem se necessário */
+  }

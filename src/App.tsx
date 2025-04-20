@@ -1,11 +1,9 @@
 import { useState } from 'react'
-import './App.css'
+import { NovaDenuncia } from './Pages/novaDenuncia'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <div></div>
+    <NovaDenuncia/>
   )
 }
 
