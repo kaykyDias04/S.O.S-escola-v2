@@ -1,9 +1,9 @@
 import React from 'react';
-import { Sidebar } from '../Components/Sidebar';
-import {DenunciaRecentes} from '../Components/DenunciasRecentes';
+import { Sidebar } from '../../Components/ADM/Sidebar';
 import styles from '../styles/MainLayout.module.css';
+import CorpoEnc from '../../Components/ADM/CorpoEnc';
 
-export function DenunciaRec() {
+export function MainLayout() {
   return (
     <div className={styles.mainContainer}>
       <div className={styles.sidebarContainer}>
@@ -11,7 +11,7 @@ export function DenunciaRec() {
       </div>
       
       <main className={styles.dashboardContainer}>
-        <DenunciaRecentes/>
+        <CorpoEnc />
       </main>
     </div>
   );

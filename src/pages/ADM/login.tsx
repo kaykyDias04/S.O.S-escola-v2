@@ -1,10 +1,12 @@
 import React from 'react';
-import styles from '../styles/login.module.css';
+import styles from '../../styles/login.module.css';
+import { useNavigate } from 'react-router-dom';
 
 const Login = () => {
   // Funções para os botões (substitua por sua lógica real)
+  const navigate = useNavigate();
   const handleLogin = () => {
-    console.log("Login realizado");
+    navigate('/dashboard');;
     // Adicione sua lógica de autenticação aqui
   };
 
