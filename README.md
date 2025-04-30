@@ -168,7 +168,7 @@ As seguintes histórias foram selecionadas para desenvolvimento nesta sprint:
 
 ## 🛠️ Versionamento  
 
-**Repositório:** [github.com/jleandromorias/sos-escola](https://github.com/jleandromorais/SOS-escola)  
+**Repositório:** [github.com/jleandromorias/sos-escola](https://github.com/jleandromorais/S.O.S-escola.git)  
 **Commits frequentes:** ![Commits](link_do_print)  
 
 ---
