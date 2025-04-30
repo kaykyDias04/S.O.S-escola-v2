@@ -167,8 +167,8 @@ Essas histórias foram priorizadas por estarem relacionadas às funcionalidades 
 
 ## 📊 Diagrama de Atividades do Sistema
 - **HU - 01**
-  ![Diagrama de atividade 1][imagens/Diagramadeatv1]
-<Inserir imagem ou link para o diagrama, pode ser um fluxograma simples em imagem ou feito no Lucidchart/FigJam/etc.>
+  ![Diagrama de atividade 1](imagens/Diagramadeatv1)
+
 - **HU - 02**
 <Inserir imagem ou link para o diagrama, pode ser um fluxograma simples em imagem ou feito no Lucidchart/FigJam/etc.>
 - **HU - 10**
