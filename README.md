@@ -174,7 +174,7 @@ As seguintes histórias foram selecionadas para desenvolvimento nesta sprint:
 ---
 
 ## 📷 Quadro de Issues atualizado
-![Quadro]()
+![Quadro](imagens/issue)
 
 
 ---
