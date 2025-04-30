@@ -150,53 +150,76 @@ Nessa aba, o usuário poderá acompanhar suas denúncias para ver se já foram r
 ## 🎥 Demonstração do Protótipo
 
 [![Assista no YouTube](https://img.youtube.com/vi/9jkoFB42xww/hqdefault.jpg)](https://www.youtube.com/watch?v=9jkoFB42xww)
+
 ---
 
 # 📌 Sprint Atual – Entrega 02  
 
-## 📋 Histórias em Andamento  
+## ✅ Histórias Selecionadas para a Sprint
 
-As seguintes histórias foram selecionadas para desenvolvimento nesta sprint:  
+1. **HU - 01 | Denúncia Anônima**
+2. **HU - 02 | Denúncia Identificada**
+3. **HU - 10 | Consentimento para Compartilhamento de Dados**
 
-- **🚨 HU-01: Denúncia Anônima**  
-- **🆔 HU-02: Denúncia Identificada**  
-- **🔒 HU-10: Consentimento para Compartilhamento de Dados**  
-
-> *Desenvolvidas conforme priorização no quadro (Trello) para atender às necessidades dos usuários denunciantes.*  
+Essas histórias foram priorizadas por estarem relacionadas às funcionalidades centrais do sistema de denúncias e à privacidade do usuário.
 
 ---
 
-## 🛠️ Versionamento  
-
-**Repositório:** [github.com/jleandromorias/sos-escola](https://github.com/jleandromorais/S.O.S-escola.git)  
-**Commits frequentes:** ![Commits](link_do_print)  
-
----
-
-## 📷 Quadro de Issues atualizado
-![Quadro](imagens/issue)
-
-
----
-## 📊 Quadro da Sprint  
-
-Estado atual do quadro (Trello) para **Sprint 01**:  
-![Trello Sprint](link_da_imagem_trello)  
+## 📊 Diagrama de Atividades do Sistema
+- **HU - 01**
+<Inserir imagem ou link para o diagrama, pode ser um fluxograma simples em imagem ou feito no Lucidchart/FigJam/etc.>
+- **HU - 02**
+<Inserir imagem ou link para o diagrama, pode ser um fluxograma simples em imagem ou feito no Lucidchart/FigJam/etc.>
+- **HU - 10**
+<Inserir imagem ou link para o diagrama, pode ser um fluxograma simples em imagem ou feito no Lucidchart/FigJam/etc.>
 
 ---
 
-## 🎬 Demonstração  
+## 🌐 Ambiente de Versionamento
 
-- **🎥 Vídeo demonstrativo:** [Link do vídeo](link_do_video)  
-- **🌐 Acesso ao sistema:** [https://endereco.com](https://endereco.com)  
+- Repositório GitHub: [link aqui]
+- Commits frequentes (mínimo semanal)
 
-> *URL visível no screencast, como solicitado.*  
+📸 **Print do histórico de commits:**
+<Inserir imagem>
 
 ---
 
-## 👨‍💻 Métodos de Trabalho  
+## 🐞 Issue / Bug Tracker
 
-- **Pair Programming** nas HU-01 e HU-02 (rotação entre piloto/navegador)  
-- **Desenvolvimento individual** na HU-10 (devido a conflitos de agenda)
+Utilizamos o sistema de issues do GitHub para organização de tarefas e bugs.
 
+📸 **Print das issues abertas e fechadas:**
+<Inserir imagem>
+
+---
+
+## 🚀 Deployment
+
+- Link para acesso ao sistema/protótipo: [link aqui]
+- Instruções de acesso: <descrever como acessar/testar>
+
+🎥 **Screencast demonstrando o uso do sistema:**  
+Inclui áudio ou legenda explicativa  
+[Link do vídeo]  
+
+---
+
+## 👥 Pair Programming
+
+Nesta sprint, **não utilizamos a prática de Pair Programming** devido à incompatibilidade de horários entre os membros da equipe, o que impossibilitou o desenvolvimento simultâneo das tarefas.  
+Optamos por dividir as atividades individualmente, de acordo com a disponibilidade de cada integrante. Ao final do processo, foram realizadas **revisões do resultado final** de cada funcionalidade desenvolvida, garantindo que todos estivessem alinhados com os objetivos da sprint.  
+Reconhecemos os benefícios da programação em par e pretendemos viabilizá-la nas próximas entregas, buscando uma melhor colaboração e qualidade do código.
+
+---
+
+## 📌 Quadro da Sprint 01 Atualizado
+
+📸 **Print do quadro do Trello da Sprint 01:**
+<Inserir imagem>
+
+📸 **Print do backlog atualizado:**
+<Inserir imagem>
+
+---
 
