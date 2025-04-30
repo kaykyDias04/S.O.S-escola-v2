@@ -170,10 +170,14 @@ Essas histórias foram priorizadas por estarem relacionadas às funcionalidades 
   
   ![Diagrama de atividade 1](imagens/Diagramadeatv1)
 
-- **HU - 02**
-<Inserir imagem ou link para o diagrama, pode ser um fluxograma simples em imagem ou feito no Lucidchart/FigJam/etc.>
-- **HU - 10**
-<Inserir imagem ou link para o diagrama, pode ser um fluxograma simples em imagem ou feito no Lucidchart/FigJam/etc.>
+ **HU - 02**
+
+  ![Diagrama de atividade 2](imagens/Diagramadeatv2)
+
+ **HU - 10**
+
+  ![Diagrama de atividade 10](imagens/Diagramadeatv10)
+
 
 ---
 
