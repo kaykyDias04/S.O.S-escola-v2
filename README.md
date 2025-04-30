@@ -222,9 +222,11 @@ Reconhecemos os benefícios da programação em par e pretendemos viabilizá-la 
 ## 📌 Quadro da Sprint 01 Atualizado
 
 📸 **Print do quadro do Trello da Sprint 01:**
+
 ![quadro](imagens/quadro.png)
 
 📸 **Print do backlog atualizado:**
+
 ![backlog](imagens/backlog02.png)
 
 ---
