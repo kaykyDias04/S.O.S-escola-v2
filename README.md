@@ -187,6 +187,7 @@ Essas histórias foram priorizadas por estarem relacionadas às funcionalidades 
 - Commits frequentes 
 
 📸 **Print do histórico de commits:**
+
 ![Histórico de commits](imagens/HistóricoDeCommits)
 
 ---
