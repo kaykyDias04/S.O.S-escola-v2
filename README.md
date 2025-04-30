@@ -166,7 +166,8 @@ Essas histórias foram priorizadas por estarem relacionadas às funcionalidades 
 ---
 
 ## 📊 Diagrama de Atividades do Sistema
-- **HU - 01**
+ **HU - 01**
+  
   ![Diagrama de atividade 1](imagens/Diagramadeatv1)
 
 - **HU - 02**
