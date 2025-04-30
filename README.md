@@ -196,7 +196,7 @@ Essas histórias foram priorizadas por estarem relacionadas às funcionalidades 
 Utilizamos o sistema de issues do GitHub para organização de tarefas e bugs.
 
 📸 **Print das issues abertas e fechadas:**
-<Inserir imagem>
+![Quandro de Issueas](imagens/issue)
 
 ---
 
