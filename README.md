@@ -207,7 +207,8 @@ Utilizamos o sistema de issues do GitHub para organização de tarefas e bugs.
 
 🎥 **Screencast demonstrando o uso do sistema:**  
 Inclui áudio ou legenda explicativa  
-[Link do vídeo]  
+[![Assista no YouTube](https://img.youtube.com/vi/k0Aud9j7v5Q/0.jpg)](https://youtu.be/k0Aud9j7v5Q)
+
 
 ---
 
