@@ -152,4 +152,40 @@ Nessa aba, o usuário poderá acompanhar suas denúncias para ver se já foram r
 [![Assista no YouTube](https://img.youtube.com/vi/9jkoFB42xww/hqdefault.jpg)](https://www.youtube.com/watch?v=9jkoFB42xww)
 ---
 
+## Sprint Atual – Entrega 02
+
+As seguintes histórias foram selecionadas para desenvolvimento nesta sprint:
+
+- HU-01: Denúncia Anônima
+- HU-02: Denúncia Identificada
+- HU-10: Consentimento para Compartilhamento de Dados
+
+Essas histórias estão sendo desenvolvidas conforme priorização no quadro (Trello) e visam atender às principais necessidades dos usuários denunciantes.
+
+## Versionamento
+
+- Repositório: [github.com/seu-usuario/sos-escola](https://github.com/seu-usuario/sos-escola)
+
+- Commits frequentes:  
+  ![Commits](link_do_print)
+
+## Quadro da Sprint Atualizado
+
+Abaixo o estado atual do quadro de tarefas no Trello refletindo a Sprint 01:
+
+![Trello Sprint](link_da_imagem_trello)
+
+## Screencast e Acesso
+
+- [🎥 Vídeo demonstrativo da funcionalidade](link_do_video)
+- [🌐 Link de acesso ao sistema](https://endereco.com)
+
+> A URL aparece no vídeo screencast, como solicitado.
+
+## Pair Programming
+
+Para o desenvolvimento das histórias HU-01 e HU-02, utilizamos programação em par, alternando entre piloto e navegador a cada sessão.
+
+Na HU-10, a atividade foi realizada individualmente por motivo de agenda dos membros da equipe.
+
 
