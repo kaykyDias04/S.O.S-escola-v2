@@ -173,6 +173,11 @@ As seguintes histórias foram selecionadas para desenvolvimento nesta sprint:
 
 ---
 
+## 📷 Quadro de Issues atualizado
+![Quadro]()
+
+
+---
 ## 📊 Quadro da Sprint  
 
 Estado atual do quadro (Trello) para **Sprint 01**:  
@@ -192,4 +197,6 @@ Estado atual do quadro (Trello) para **Sprint 01**:
 ## 👨‍💻 Métodos de Trabalho  
 
 - **Pair Programming** nas HU-01 e HU-02 (rotação entre piloto/navegador)  
-- **Desenvolvimento individual** na HU-10 (devido a conflitos de agenda)  
+- **Desenvolvimento individual** na HU-10 (devido a conflitos de agenda)
+
+
