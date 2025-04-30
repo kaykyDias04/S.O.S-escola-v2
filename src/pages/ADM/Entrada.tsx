@@ -14,7 +14,7 @@ export default function Entrada() {
   };
 
   const handleStudentClick = () => {
-    console.log('Área do Aluno clicked');
+    navigate('/nova-denuncia');
     // Você pode também fazer outro router.push aqui, se quiser
   };
 

@@ -2,14 +2,14 @@ import  { useState } from 'react';
 import styles from '../../styles/Sidebar.module.css';
 import { useNavigate } from 'react-router-dom';
 
-export function Sidebar() {
+export function SidebarAluno() {
     const [activeItem, setActiveItem] = useState('Início'); // Começa no "Início" (ou vazio)
     const navigate=useNavigate();//funcao de navegaçaõ 
     const menuItems = [
-        { label: 'DashBoard', icon: 'fas fa-file-alt' ,path:'/dashboard'},
-        { label: 'Denúncias Recentes', icon: 'fas fa-history',path:'/DenunciaRec' },
-        { label: 'Relatórios e Estatísticas', icon: 'fas fa-user' ,path:'/relatorioEEstatistica' },
-        { label: 'Encaminhamentos', icon: 'fas fa-cog',path:'/' }
+        { label: 'Inicio', icon: 'fas fa-file-alt' ,path:'/'},
+        { label: 'Nova denuncia', icon: 'fas fa-history',path:'/' },
+        { label: 'Minhas denuncias', icon: 'fas fa-user' ,path:'/' },
+        { label: 'Apoio Psicologico ', icon: 'fas fa-cog',path:'/' }
     ];
 
     return (

@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { AP } from "../../Components/ADM/AP";
-import { Sidebar } from "../../Components/ADM/Sidebar";
-import styles from '../styles/NovaDenuncia.module.css';
+import styles from '../../styles/NovaDenuncia.module.css';
+import { SidebarAluno } from '../../Components/Aluno/SidebarAluno';
 export function NovaDenuncia() {
   const [isMobile, setIsMobile] = useState<boolean>(false);
   const [sidebarOpen, setSidebarOpen] = useState<boolean>(true); // Inicia como true
@@ -46,7 +46,7 @@ export function NovaDenuncia() {
       
       {/* Sidebar - agora usando a classe open corretamente */}
       <div className={`${styles.sidebar} ${sidebarOpen ? styles.open : ''}`}>
-        <Sidebar />
+        <SidebarAluno />
       </div>
       
       {/* Conteúdo principal */}

@@ -1,7 +1,6 @@
-import React from 'react';
 import { Sidebar } from '../../Components/ADM/Sidebar';
 import {DenunciaRecentes} from '../../Components/ADM/DenunciasRecentes';
-import styles from '../styles/MainLayout.module.css';
+import styles from '../../styles/MainLayout.module.css';
 
 export function DenunciaRec() {
   return (

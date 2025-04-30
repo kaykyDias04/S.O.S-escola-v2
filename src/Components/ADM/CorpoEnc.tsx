@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from '../styles/enc.module.css';
+import styles from '../../styles/enc.module.css';
 
 export default function CorpoEnc() {
   const tabs = ['Pendentes', 'Em Andamento', 'Concluídos'];
