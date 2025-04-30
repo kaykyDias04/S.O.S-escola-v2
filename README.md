@@ -202,8 +202,7 @@ Utilizamos o sistema de issues do GitHub para organização de tarefas e bugs.
 
 ## 🚀 Deployment
 
-- Link para acesso ao sistema/protótipo: [link aqui]
-- Instruções de acesso: <descrever como acessar/testar>
+- Link para acesso ao sistema/protótipo: ![link aqui](s-o-s-escola-h9hs.vercel.app)
 
 🎥 **Screencast demonstrando o uso do sistema:**  
 Inclui áudio ou legenda explicativa  
