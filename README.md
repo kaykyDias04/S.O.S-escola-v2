@@ -187,7 +187,7 @@ Essas histórias foram priorizadas por estarem relacionadas às funcionalidades 
 - Commits frequentes 
 
 📸 **Print do histórico de commits:**
-<Inserir imagem>
+![Histórico de commits](imagens/HistóricoDeCommits)
 
 ---
 
@@ -196,7 +196,7 @@ Essas histórias foram priorizadas por estarem relacionadas às funcionalidades 
 Utilizamos o sistema de issues do GitHub para organização de tarefas e bugs.
 
 📸 **Print das issues abertas e fechadas:**
-![Quandro de Issueas](imagens/issue)
+![Quadro de Issues](imagens/issue)
 
 ---
 
