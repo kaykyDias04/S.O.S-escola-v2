@@ -183,8 +183,8 @@ Essas histórias foram priorizadas por estarem relacionadas às funcionalidades 
 
 ## 🌐 Ambiente de Versionamento
 
-- Repositório GitHub: [link aqui]
-- Commits frequentes (mínimo semanal)
+- Repositório GitHub: [ 📁 link aqui](https://github.com/jleandromorais/S.O.S-escola.git)
+- Commits frequentes 
 
 📸 **Print do histórico de commits:**
 <Inserir imagem>
