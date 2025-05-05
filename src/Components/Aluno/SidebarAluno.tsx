@@ -6,8 +6,8 @@ export function SidebarAluno() {
     const [activeItem, setActiveItem] = useState('Início'); // Começa no "Início" (ou vazio)
     const navigate=useNavigate();//funcao de navegaçaõ 
     const menuItems = [
-        { label: 'Inicio', icon: 'fas fa-file-alt' ,path:'/'},
-        { label: 'Nova denuncia', icon: 'fas fa-history',path:'/' },
+        { label: 'Inicio', icon: 'fas fa-file-alt' ,path:'/inicial-pag'},
+        { label: 'Nova denuncia', icon: 'fas fa-history',path:'/nova-denuncia' },
         { label: 'Minhas denuncias', icon: 'fas fa-user' ,path:'/' },
         { label: 'Apoio Psicologico ', icon: 'fas fa-cog',path:'/' }
     ];

@@ -1,16 +1,22 @@
 import {  FormEvent } from 'react';
 import styles from '../../styles/Ap.module.css';
 import { useForms } from '../../hooks/useForms';
+import { useNavigate } from 'react-router-dom';
 
 export function AP() {
   const { formData, handleInputChange, resetForm } = useForms();
-
+  const navigate=useNavigate();
   const handleSubmit = (e: FormEvent) => {
     e.preventDefault();
-    console.log(formData);
-    resetForm();
-  };
 
+  const numero = Math.floor(Math.random()*90000+10000);
+  const protocolo ='SOS-2025-${numero}';
+
+  localStorage.setItem('protocologerado',protocolo);
+  navigate('/protocolo')
+
+  resetForm
+  }
   return (
     <div className={styles.complaintContainer}>
       <div className={styles['main-area']}>

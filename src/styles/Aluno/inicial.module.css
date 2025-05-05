@@ -1,0 +1,139 @@
+/* Reset e base */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #ffffff;
+    color: #1e1e1e;
+  }
+  
+  /* Área principal */
+  .mainContent {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .welcomeSection {
+    margin-bottom: 2.5rem;
+    text-align: left;
+  }
+  
+  .welcomeTitle {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1e1e1e;
+    margin-bottom: 0.5rem;
+  }
+  
+  .welcomeSubtitle {
+    font-size: 16px;
+    font-weight: 400;
+    color: #666666;
+  }
+  
+  /* Blocos de ação */
+  .actionBlocks {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+  }
+  
+  .actionBlock {
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .actionBlock:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+  }
+  
+  .iconContainer {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  
+  /* Estilos específicos */
+  .reportIcon {
+    background-color: #dbe6ff;
+    color: #4176f5;
+  }
+  
+  .trackIcon {
+    background-color: #e1f3dc;
+    color: #34a853;
+  }
+  
+  .supportIcon {
+    background-color: #ffeccb;
+    color: #f39c12;
+  }
+  
+  .actionTitle {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+  }
+  
+  .actionText {
+    font-size: 14px;
+    color: #666666;
+    margin-bottom: 1.5rem;
+    line-height: 1.5;
+  }
+  
+  .actionButton {
+    display: inline-block;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    color: #ffffff;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    transition: background-color 0.2s ease;
+    text-decoration: none;
+    width: 100%;
+  }
+  
+  .reportButton {
+    background-color: #4176f5;
+  }
+  
+  .reportButton:hover {
+    background-color: #3567e0;
+  }
+  
+  .trackButton {
+    background-color: #34a853;
+  }
+  
+  .trackButton:hover {
+    background-color: #2d9549;
+  }
+  
+  .supportButton {
+    background-color: #f39c12;
+  }
+  
+  .supportButton:hover {
+    background-color: #e08e0b;
+  }
+  

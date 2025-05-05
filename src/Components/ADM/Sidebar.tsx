@@ -9,7 +9,7 @@ export function Sidebar() {
         { label: 'DashBoard', icon: 'fas fa-file-alt' ,path:'/dashboard'},
         { label: 'Denúncias Recentes', icon: 'fas fa-history',path:'/DenunciaRec' },
         { label: 'Relatórios e Estatísticas', icon: 'fas fa-user' ,path:'/relatorioEEstatistica' },
-        { label: 'Encaminhamentos', icon: 'fas fa-cog',path:'/' }
+        { label: 'Encaminhamentos', icon: 'fas fa-cog',path:'/encaminhamento' }
     ];
 
     return (

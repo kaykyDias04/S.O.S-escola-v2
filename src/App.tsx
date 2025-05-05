@@ -6,6 +6,9 @@ import { DenunciaRec } from './pages/ADM/DenunciaRec';
 import { Relatorio } from './pages/ADM/relatorio';
 import { Encaminhamento } from './pages/ADM/Encaminhamento';
 import { NovaDenuncia } from './pages/Aluno/NovaDenuncia';
+import LoginMatricula from './pages/Aluno/LoginAluno';
+import { InicialPag } from './pages/Aluno/InicialAluno';
+import { ProtocoloDen } from './Components/Aluno/protocoloDec';
 
 function App() {
   return (
@@ -19,7 +22,9 @@ function App() {
           <Route path="/relatorioeestatistica" element={<Relatorio />} />
           <Route path="/encaminhamento" element={<Encaminhamento />} />
           <Route path="/nova-denuncia" element={<NovaDenuncia />} />
-
+          <Route path="/login-aluno" element={<LoginMatricula />} />
+          <Route path="/inicial-pag" element={<InicialPag />} />
+          <Route path ="/protocolo" element={<ProtocoloDen />} />
         </Routes>
       </div>
     </BrowserRouter>

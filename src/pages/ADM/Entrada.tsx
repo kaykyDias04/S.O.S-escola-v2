@@ -14,7 +14,7 @@ export default function Entrada() {
   };
 
   const handleStudentClick = () => {
-    navigate('/nova-denuncia');
+    navigate('/login-aluno');
     // Você pode também fazer outro router.push aqui, se quiser
   };
 
