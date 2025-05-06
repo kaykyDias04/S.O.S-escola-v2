@@ -1,0 +1,88 @@
+:root {
+    --background-color: #ffffff;
+    --card-background: #f7f7f7;
+    --text-black: #1e1e1e;
+    --text-dark-gray: #444444;
+    --text-medium-gray: #666666;
+    --status-in-analysis: #f39c12;
+    --status-resolved: #2ecc71;
+  }
+  
+  .mainContent {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 24px;
+    background-color: var(--background-color);
+    color: var(--text-black);
+  }
+  
+  .pageTitle {
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 24px;
+  }
+  
+  .complaintsList {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  
+  .complaintCard {
+    background-color: var(--card-background);
+    padding: 16px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+  }
+  
+  .complaintCard:hover {
+    transform: scale(1.01);
+  }
+  
+  .complaintInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  
+  .complaintProtocol {
+    font-weight: 600;
+    color: var(--text-black);
+  }
+  
+  .complaintDetails {
+    color: var(--text-dark-gray);
+    font-weight: 400;
+  }
+  
+  .statusContainer {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  
+  .statusText {
+    font-size: 14px;
+    color: var(--text-medium-gray);
+  }
+  
+  .statusIndicator {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  
+  .statusInAnalysis {
+    background-color: var(--status-in-analysis);
+  }
+  
+  .statusResolved {
+    background-color: var(--status-resolved);
+  }
+  

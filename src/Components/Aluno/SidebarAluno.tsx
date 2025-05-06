@@ -8,8 +8,8 @@ export function SidebarAluno() {
     const menuItems = [
         { label: 'Inicio', icon: 'fas fa-file-alt' ,path:'/inicial-pag'},
         { label: 'Nova denuncia', icon: 'fas fa-history',path:'/nova-denuncia' },
-        { label: 'Minhas denuncias', icon: 'fas fa-user' ,path:'/' },
-        { label: 'Apoio Psicologico ', icon: 'fas fa-cog',path:'/' }
+        { label: 'Minhas denuncias', icon: 'fas fa-user' ,path:'/minhas-denc' },
+        { label: 'Apoio Psicologico ', icon: 'fas fa-cog',path:'/psi' }
     ];
 
     return (

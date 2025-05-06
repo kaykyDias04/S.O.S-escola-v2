@@ -8,13 +8,30 @@ export function ProtocoloDen() {
   const [protocolo, setProtocolo] = useState('');
 
   useEffect(() => {
-    const gerarProtocolo = () => {
+    const protocoloSalvo = localStorage.getItem("protocologerado");
+  
+    if (protocoloSalvo) {
+      setProtocolo(protocoloSalvo);
+    } else {
       const numero = Math.floor(10000 + Math.random() * 90000);
-      return `SOS–2025–${numero}`;
-    };
-
-    setProtocolo(gerarProtocolo());
+      const novoProtocolo = `SOS-2025-${numero}`;
+      localStorage.setItem("protocologerado", novoProtocolo);
+      setProtocolo(novoProtocolo);
+  
+      const novaDenuncia = {
+        protocolo: novoProtocolo,
+        descricao: "Descrição automática - Nova denúncia", // ou pegue de um formulário
+        status: "Em Análise"
+      };
+  
+      const denunciasSalvas = JSON.parse(localStorage.getItem("denuncias") || "[]");
+      denunciasSalvas.unshift(novaDenuncia);
+      localStorage.setItem("denuncias", JSON.stringify(denunciasSalvas));
+    }
   }, []);
+  
+  
+
 
   const copiarProtocolo = async () => {
     try {
@@ -34,6 +51,9 @@ export function ProtocoloDen() {
   const handleClickTo = () => {
     navigate('/inicial-pag');
   };
+  const hadleClickToProcesss=()=>{
+    navigate('/minhas-denc');
+  }
 
   return (
     <div className={styles.container}>
@@ -49,7 +69,7 @@ export function ProtocoloDen() {
         <p className={styles.subtext}>Guarde este número para acompanhamento</p>
 
         <div className={styles.buttonsContainer}>
-          <button className={styles.primaryButton} onClick={acompanharStatus}>
+          <button className={styles.primaryButton} onClick={hadleClickToProcesss}>
             Acompanhar Status
           </button>
           <button className={styles.secondaryButton} onClick={handleClickTo}>

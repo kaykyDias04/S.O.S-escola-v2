@@ -8,15 +8,24 @@ export function AP() {
   const navigate=useNavigate();
   const handleSubmit = (e: FormEvent) => {
     e.preventDefault();
-
-  const numero = Math.floor(Math.random()*90000+10000);
-  const protocolo ='SOS-2025-${numero}';
-
-  localStorage.setItem('protocologerado',protocolo);
-  navigate('/protocolo')
-
-  resetForm
-  }
+  
+    const numero = Math.floor(Math.random() * 90000 + 10000);
+    const protocolo = `SOS-2025-${numero}`;
+  
+    const novaDenuncia = {
+      protocolo,
+      descricao: formData.descricao,
+      status: 'Em Análise',
+    };
+  
+    const denunciasExistentes = JSON.parse(localStorage.getItem('denuncias') || '[]');
+    denunciasExistentes.push(novaDenuncia);
+    localStorage.setItem('denuncias', JSON.stringify(denunciasExistentes));
+  
+    localStorage.setItem('protocologerado', protocolo); // se quiser usar em ProtocoloDen
+    navigate('/protocolo');
+  };
+  
   return (
     <div className={styles.complaintContainer}>
       <div className={styles['main-area']}>

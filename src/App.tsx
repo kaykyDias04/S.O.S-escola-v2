@@ -9,7 +9,9 @@ import { NovaDenuncia } from './pages/Aluno/NovaDenuncia';
 import LoginMatricula from './pages/Aluno/LoginAluno';
 import { InicialPag } from './pages/Aluno/InicialAluno';
 import { ProtocoloDen } from './Components/Aluno/protocoloDec';
-
+import { MinhaDenunciass } from './pages/Aluno/MinhasDenuncias';
+import Psicologia from './Components/Aluno/psicologia';
+import { PsicologiaPag } from './pages/Aluno/Psicologiapag';
 function App() {
   return (
     <BrowserRouter>
@@ -25,6 +27,8 @@ function App() {
           <Route path="/login-aluno" element={<LoginMatricula />} />
           <Route path="/inicial-pag" element={<InicialPag />} />
           <Route path ="/protocolo" element={<ProtocoloDen />} />
+          <Route  path="/minhas-denc" element={<MinhaDenunciass />} />
+          <Route path="/psi" element={<PsicologiaPag />} />
         </Routes>
       </div>
     </BrowserRouter>
