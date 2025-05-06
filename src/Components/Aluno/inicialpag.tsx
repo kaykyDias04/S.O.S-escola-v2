@@ -1,4 +1,6 @@
 import styles from '../../styles/Aluno/inicial.module.css';
+import { Link } from 'react-router-dom';
+
 
 export default function InicialAluno() {
   return (
@@ -11,16 +13,15 @@ export default function InicialAluno() {
       </section>
 
       <div className={styles.actionBlocks}>
-        {/* Fazer Nova Denúncia */}
         <div className={styles.actionBlock}>
           <div className={`${styles.iconContainer} ${styles.reportIcon}`}>!</div>
           <h2 className={styles.actionTitle}>Fazer Nova Denúncia</h2>
           <p className={styles.actionText}>
             Denuncie situações de bullying ou violência no ambiente escolar.
           </p>
-          <a href="#" className={`${styles.actionButton} ${styles.reportButton}`}>
-            Criar Denúncia
-          </a>
+          <Link to="/nova-denuncia" className={`${styles.actionButton} ${styles.reportButton}`}>
+  Criar Denúncia
+</Link>
         </div>
 
         {/* Acompanhar Denúncias */}
@@ -30,9 +31,9 @@ export default function InicialAluno() {
           <p className={styles.actionText}>
             Verifique o status e as atualizações das suas denúncias.
           </p>
-          <a href="#" className={`${styles.actionButton} ${styles.trackButton}`}>
+          <Link to="/minhas-denc" className={`${styles.actionButton} ${styles.trackButton}`}>
             Ver Minhas Denúncias
-          </a>
+          </Link>
         </div>
 
         {/* Apoio Psicológico */}
@@ -42,9 +43,9 @@ export default function InicialAluno() {
           <p className={styles.actionText}>
             Converse com profissionais que podem te ajudar.
           </p>
-          <a href="#" className={`${styles.actionButton} ${styles.supportButton}`}>
+          <Link to="/psi" className={`${styles.actionButton} ${styles.supportButton}`}>
             Buscar Apoio
-          </a>
+          </Link>
         </div>
       </div>
     </main>
