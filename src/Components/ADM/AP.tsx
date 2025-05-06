@@ -4,7 +4,7 @@ import { useForms } from '../../hooks/useForms';
 import { useNavigate } from 'react-router-dom';
 
 export function AP() {
-  const { formData, handleInputChange, resetForm } = useForms();
+  const { formData, handleInputChange } = useForms();
   const navigate=useNavigate();
   const handleSubmit = (e: FormEvent) => {
     e.preventDefault();

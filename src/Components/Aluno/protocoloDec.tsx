@@ -43,10 +43,7 @@ export function ProtocoloDen() {
     }
   };
 
-  const acompanharStatus = () => {
-    alert('Redirecionando para acompanhamento do protocolo: ' + protocolo);
-    // window.location.href = `/track-status?protocol=${protocolo}`;
-  };
+  
 
   const handleClickTo = () => {
     navigate('/inicial-pag');

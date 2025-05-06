@@ -10,7 +10,6 @@ import LoginMatricula from './pages/Aluno/LoginAluno';
 import { InicialPag } from './pages/Aluno/InicialAluno';
 import { ProtocoloDen } from './Components/Aluno/protocoloDec';
 import { MinhaDenunciass } from './pages/Aluno/MinhasDenuncias';
-import Psicologia from './Components/Aluno/psicologia';
 import { PsicologiaPag } from './pages/Aluno/Psicologiapag';
 function App() {
   return (
