@@ -1,5 +1,4 @@
 import { SidebarAluno } from '../../Components/Aluno/SidebarAluno';
-import styles from '../../styles/MainLayout.module.css';
 import Descricao from '../../Components/Aluno/inicialpag';
 
 export function InicialPag() {

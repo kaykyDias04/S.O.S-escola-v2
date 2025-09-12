@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react';
 import Psicologia from '../../Components/Aluno/psicologia';
-import styles from '../../styles/NovaDenuncia.module.css';
 import { SidebarAluno } from '../../Components/Aluno/SidebarAluno';
 export function PsicologiaPag() {
   const [isMobile, setIsMobile] = useState<boolean>(false);

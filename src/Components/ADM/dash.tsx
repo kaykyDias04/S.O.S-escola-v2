@@ -1,7 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCog, faExclamation, faArrowDown } from '@fortawesome/free-solid-svg-icons';
-import styles from '../../styles/dash.module.css';
 
 const Dashboard: React.FC = () => {
   return (

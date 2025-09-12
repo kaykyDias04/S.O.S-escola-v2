@@ -1,5 +1,4 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Entrada from './pages/ADM/Entrada';
 import Login from './pages/ADM/login';
 import {MainLayout} from './pages/ADM/dashboard'; // <- sem { } se for export default
 import { DenunciaRec } from './pages/ADM/DenunciaRec';
@@ -11,13 +10,14 @@ import { InicialPag } from './pages/Aluno/InicialAluno';
 import { ProtocoloDen } from './Components/Aluno/protocoloDec';
 import { MinhaDenunciass } from './pages/Aluno/MinhasDenuncias';
 import { PsicologiaPag } from './pages/Aluno/Psicologiapag';
+import Homepage from './pages/homepage';
 function App() {
   return (
     <BrowserRouter>
-      <div style={{ height: '100vh', width: '100vw' }}>
+      <div className='h-full w-full'>
         <Routes>
-          <Route path="/" element={<Entrada />} />
-          <Route path="/login" element={<Login />} />
+          <Route path="/" element={<Homepage />} />
+          <Route path="/login-professor" element={<Login />} />
           <Route path="/dashboard" element={<MainLayout />} />
           <Route path="/denunciarec" element={<DenunciaRec />} />
           <Route path="/relatorioeestatistica" element={<Relatorio />} />
@@ -26,7 +26,7 @@ function App() {
           <Route path="/login-aluno" element={<LoginMatricula />} />
           <Route path="/inicial-pag" element={<InicialPag />} />
           <Route path ="/protocolo" element={<ProtocoloDen />} />
-          <Route  path="/minhas-denc" element={<MinhaDenunciass />} />
+          <Route path="/minhas-denc" element={<MinhaDenunciass />} />
           <Route path="/psi" element={<PsicologiaPag />} />
         </Routes>
       </div>

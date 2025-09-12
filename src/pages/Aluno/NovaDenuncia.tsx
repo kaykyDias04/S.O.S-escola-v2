@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react';
 import { AP } from "../../Components/ADM/AP";
-import styles from '../../styles/NovaDenuncia.module.css';
 import { SidebarAluno } from '../../Components/Aluno/SidebarAluno';
 export function NovaDenuncia() {
   const [isMobile, setIsMobile] = useState<boolean>(false);

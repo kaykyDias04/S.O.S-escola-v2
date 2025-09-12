@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react';
 import MinhasDenuncias from '../../Components/Aluno/minhasDenuncias';
-import styles from '../../styles/NovaDenuncia.module.css';
 import { SidebarAluno } from '../../Components/Aluno/SidebarAluno';
 export function MinhaDenunciass() {
   const [isMobile, setIsMobile] = useState<boolean>(false);

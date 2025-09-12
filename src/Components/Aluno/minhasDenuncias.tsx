@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react';
-import styles from '../../styles/Aluno/minhasDenuncias.module.css';
 
 interface Denuncia {
   protocolo: string;

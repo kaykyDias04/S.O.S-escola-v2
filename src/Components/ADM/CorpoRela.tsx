@@ -1,4 +1,4 @@
-import styles from '../../styles/rela.module.css';
+
 
 export default function CorpoRela() {
   return (

@@ -1,6 +1,5 @@
 import { Sidebar } from '../../Components/ADM/Sidebar';
 import CorpoRela from '../../Components/ADM/CorpoRela';
-import styles from '../../styles/MainLayout.module.css';
 
 export function Relatorio() {
   return (

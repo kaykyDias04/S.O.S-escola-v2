@@ -1,6 +1,5 @@
 import { Sidebar } from '../../Components/ADM/Sidebar';
 import Dashboard from '../../Components/ADM/dash';
-import styles from '../../styles/MainLayout.module.css';
 
 export function MainLayout() {
   return (

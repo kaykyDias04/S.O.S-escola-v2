@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react';
 import { ProtocoloDen } from '../../Components/Aluno/protocoloDec';
-import styles from '../../styles/NovaDenuncia.module.css';
 import { SidebarAluno } from '../../Components/Aluno/SidebarAluno';
 export function ProtocoloDec() {
   const [isMobile, setIsMobile] = useState<boolean>(false);

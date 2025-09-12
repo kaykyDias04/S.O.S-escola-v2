@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import styles from '../../styles/descricao.module.css';
 
 export default function Descricao() {
   const [description, setDescription] = useState('');

@@ -1,5 +1,4 @@
 import { Sidebar } from '../../Components/ADM/Sidebar';
-import styles from '../styles/MainLayout.module.css';
 import Descricao from '../../Components/ADM/Descricao';
 
 export function DenunciaRec() {

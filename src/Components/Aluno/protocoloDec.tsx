@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import styles from '../../styles/Aluno/ProtocoloDec.module.css';
+
 
 export function ProtocoloDen() {
   const navigate = useNavigate();

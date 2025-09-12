@@ -1,4 +1,4 @@
-import styles from '../../styles/DenunciaRec.module.css';
+
 
 export function DenunciaRecentes() {
   return (

@@ -1,5 +1,4 @@
 import  { useState } from 'react';
-import styles from '../../styles/Sidebar.module.css';
 import { useNavigate } from 'react-router-dom';
 
 export function SidebarAluno() {

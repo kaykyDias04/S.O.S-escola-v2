@@ -1,4 +1,4 @@
-import styles from '../../styles/Aluno/psicologia.module.css';
+
 
 const Psicologia = () => {
   const handleChatClick = () => {
