@@ -16,7 +16,7 @@ const Homepage = () => {
 
   return (
     <div className="bg-stone-100 min-h-screen flex items-center justify-center p-4">
-      <div className="relative bg-white rounded-2xl shadow-lg p-16 md:p-24 w-full h-220 overflow-hidden">
+      <div className="relative bg-white rounded-2xl shadow-xl/20 p-16 md:p-24 w-400 h-200 overflow-hidden">
         <div className="absolute top-0 left-0 w-full h-full pointer-events-none">
           <svg
             className="absolute top-0 left-0 w-full h-auto"
