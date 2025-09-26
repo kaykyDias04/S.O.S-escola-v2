@@ -1,90 +1,62 @@
+"use client";
 
-import { useNavigate } from 'react-router-dom';
+import { useNavigate } from "react-router-dom";
+import { Button } from "@/Components/ui/button";
+import Logo from "@/assets/logo.svg";
+import { Input } from "@/Components/ui/input";
 
-const Login = () => {
-  // Funções para os botões (substitua por sua lógica real)
+const Homepage = () => {
   const navigate = useNavigate();
-  const handleLogin = () => {
-    navigate('/dashboard');;
-    // Adicione sua lógica de autenticação aqui
-  };
 
-  const handleRegister = () => {
-    console.log("Cadastro iniciado");
-    // Adicione sua lógica de cadastro aqui
+  const handleTeacherClick = () => {
+    navigate("/login-professor");
+  };
+  const handleStudentClick = () => {
+    navigate("/login-aluno");
   };
 
   return (
-    <div className={styles.container}>
-      {/* Left Side - Login */}
-      <div className={styles.leftSide}>
-        <h1 className={styles.title}>
-          <span>S.O.S</span> Escola
-        </h1>
-
-        <div className={styles.formGroup}>
-          <div className={styles.inputGroup}>
-            <i className={`fas fa-envelope ${styles.icon}`}></i>
-            <input type="email" className={styles.inputField} placeholder="Email" />
-          </div>
-
-          <div className={styles.inputGroup}>
-            <i className={`fas fa-lock ${styles.icon}`}></i>
-            <input type="password" className={styles.inputField} placeholder="Senha" />
-          </div>
-          
-          {/* Botão de Entrar */}
-          <button 
-            className={styles.loginButton}
-            onClick={handleLogin}
+    <div className="bg-stone-100 min-h-screen flex items-center justify-center p-4">
+      <div className="relative bg-white rounded-2xl shadow-xl w-full max-w-6xl p-12 md:p-12 overflow-hidden flex flex-col gap-12 md:gap-16 min-h-[600px]">
+        <div className="absolute top-0 left-0 w-full h-full pointer-events-none">
+          <svg
+            className="absolute top-0 left-0 w-full h-auto"
+            viewBox="0 0 950 300"
+            preserveAspectRatio="none"
           >
-            Entrar
-          </button>
+            <path
+              d="M0,0 L1300,0 L1100,5 L500,200 L0,200 Z"
+              className="fill-stone-50"
+            />
+          </svg>
         </div>
 
-        <a href="#" className={styles.forgotPassword}>
-          Esqueci minha senha
-        </a>
-      </div>
-
-      {/* Divider */}
-      <div className={styles.divider}></div>
-
-      {/* Right Side - Registration */}
-      <div className={styles.rightSide}>
-        <div className={styles.iconContainer}>
-          <i className="fas fa-university"></i>
+        <div className="relative z-10 w-full flex items-center justify-between">
+          <h1 className="text-blue-900 font-bold text-5xl sm:text-6xl md:text-7xl">
+            S.O.S Escola
+          </h1>
+          <div className="relative w-24 h-24 md:w-40 md:h-40 bg-sky-700 rounded-full flex items-center justify-center shadow-md mr-28">
+            <img src={Logo} alt="Logo" className="w-16 h-16 md:w-25 md:h-25" />
+          </div>
         </div>
 
-        <h2 className={styles.registerTitle}>Registro</h2>
-
-        <div className={styles.formGroup}>
-          <div className={styles.inputGroup}>
-            <i className={`fas fa-user ${styles.icon}`}></i>
-            <input type="text" className={styles.inputField} placeholder="Nome" />
+        <div className="relative z-10 flex flex-col items-center md:items-start gap-8">
+          <div className="flex flex-col gap-12 mt-18 justify-center md:justify-start">
+            <Input
+              className="bg-stone-100 text-stone-800 text-xl w-128 h-12 md:text-xl font-semibold py-4 px-8 rounded-lg transition-colors hover:bg-stone-300"
+              placeholder="Email"
+            >
+            </Input>
+            <Input
+              className="bg-stone-100 text-stone-800 text-xl w-128 h-12 md:text-xl font-semibold py-4 px-8 rounded-lg transition-colors hover:bg-stone-300"
+              placeholder="Senha"
+            >
+            </Input>
           </div>
-
-          <div className={styles.inputGroup}>
-            <i className={`fas fa-envelope ${styles.icon}`}></i>
-            <input type="email" className={styles.inputField} placeholder="Email" />
-          </div>
-
-          <div className={styles.inputGroup}>
-            <i className={`fas fa-lock ${styles.icon}`}></i>
-            <input type="password" className={styles.inputField} placeholder="Senha" />
-          </div>
-          
-          {/* Botão de Cadastrar */}
-          <button 
-            className={styles.registerButton}
-            onClick={handleRegister}
-          >
-            Cadastrar
-          </button>
         </div>
       </div>
     </div>
   );
 };
 
-export default Login;
+export default Homepage;

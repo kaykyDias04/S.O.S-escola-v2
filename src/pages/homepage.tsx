@@ -44,7 +44,7 @@ const Homepage = () => {
             Denúncias Anônimas de Bullying
           </h2>
 
-          <div className="flex flex-col gap-6 mt-6 justify-center md:justify-start">
+          <div className="flex flex-col gap-8 mt-12 justify-center md:justify-start">
             <Button
               className="bg-stone-200 text-stone-800 text-xl w-128 h-10 md:text-2xl font-semibold cursor-pointer py-4 px-8 rounded-full transition-colors hover:bg-stone-300"
               onClick={handleTeacherClick}

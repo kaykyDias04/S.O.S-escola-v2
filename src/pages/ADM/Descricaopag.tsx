@@ -8,7 +8,7 @@ export function DenunciaRec() {
         <Sidebar />
       </div>
       
-      <main className={styles.dashboardContainer}>
+      <main className="">
         <Descricao/>
       </main>
     </div>
