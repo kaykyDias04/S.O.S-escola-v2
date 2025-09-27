@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Login from './pages/ADM/login';
+import Login from './pages/login';
 import {MainLayout} from './pages/ADM/dashboard'; // <- sem { } se for export default
 import { DenunciaRec } from './pages/ADM/DenunciaRec';
 import { Relatorio } from './pages/ADM/relatorio';
